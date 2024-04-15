@@ -1,5 +1,5 @@
 {
-  "name": "onlyoffice-docspace-plugin-sdk-declarations",
+  "name": "docspace-plugin-sdk-declarations",
   "private": true,
   "type": "module",
   "scripts": {
