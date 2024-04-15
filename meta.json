@@ -1,0 +1,8 @@
+{
+  "master": {
+    "docspace-plugin-sdk": "d27fb5d609af5f3e33a68747c18179a6f5a87f1c"
+  },
+  "develop": {
+    "docspace-plugin-sdk": "4b294d0a90267906503ac7b26c58834390e67cc4"
+  }
+}
